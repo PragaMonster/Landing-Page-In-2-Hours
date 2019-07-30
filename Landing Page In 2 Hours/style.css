@@ -1,0 +1,70 @@
+body {
+    background: rgb(245, 245, 245);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    color: #404E4D;
+}
+
+.features {
+    width: 100px;
+}
+
+h1 {
+    color: #C7254E;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+h2 {
+    color: #7E459B;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+a {
+    color: orange;
+    font-size: 30px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #C7254E;
+}
+
+.banner {
+    text-align: center;
+    background-image: url("https://picsum.photos/id/1001/5616/3744");
+    background-size: cover;
+    padding: 150px;
+    border-radius: 3px;
+    color: rgb(245, 245, 245);
+    text-shadow: 1px 1px 5px rgb(230, 230, 230);
+}
+
+footer {
+    background-color: #404E4D;
+    text-align: center;
+    color: rgb(245, 245, 245);
+    padding: 10px;
+}
+
+.quality {
+    text-align: center;
+    padding: 50px;
+    font-weight: lighter;
+}
+
+footer a {
+    color: lightgrey;
+    font-size: 25px;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: rgb(230, 230, 230);
+}
+
+footer ul {
+    text-decoration-line: none;
+}
